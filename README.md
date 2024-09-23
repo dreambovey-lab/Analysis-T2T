@@ -3,6 +3,20 @@ Human-associated metagenomic data often contain human nucleic acid information, 
 
 ## The script description
 
+removehost.py:  script for removing host sequences.
+
+get_taxon_name_and_category.py: get taxon name and category.
+
+get_refseq_blast_stats.py: get the reference genome information for BLAST alignment.
+
+get_microbe_report_for_TN_reads.py: get microbe report for TN reads
+
+get_performance_stats.py: get performance data and statistical results.
+
+get_TaxID_for_FN_reads.py: get TaxID for FN reads.
+
+get_GC_stats_v5.py: get_GC_stats: calculate the GC content of different reference genomes
+
 analysis.R: 
 The main script in the project includes statistical analysis results and drawing functions.
 
